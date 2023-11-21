@@ -1,0 +1,10 @@
+.table-pro{
+width: 100%;
+}
+.table-pro th{
+    border: 1px solid black;
+}
+.table-pro td{
+    border: 1px solid black;
+
+}
